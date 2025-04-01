@@ -42,22 +42,6 @@ We're thrilled that you're interested in working on helping us improve the Cere 
 6. **Incorporate Feedback**: Make necessary changes based on reviews.
 7. **Get Paid**: Upon PR approval and merge, submit an [invoice request](https://noteforms.com/forms/contributor-invoices-aktm0s).
 
-## **How It Works**
-
-### **Grant Tiers**
-
-Grant payouts are categorized by ‘tiers’. All grants are flexible within their category.
-
-Grant payout range is currently set between a minumum of $20 to a maximum of $1000, with the specific grant value for each given task negotiated on a case-by-case basis considering the issue's significance, and complexity, and expected time to delivery.
-
-- **Minimal Complexity (low)**: **$20-$200**
-- **Medium Complexity (medium): $200-$500**
-- **High Complexity (high): $500-$1000**
-
-### Grant Labels
-
-- **`Help Requested`**: This is the primary label used to identify issues we’re looking for support to be completed for a grant. Feel free to express interest.
-- `**Good First Issue**`: The "Good First Issue" label identifies issues that are suitable for newcomers to the project. These issues are generally easier to resolve, require less specialized knowledge, and serve as an excellent entry point for developers looking to contribute to the project for the first time. Look for the `Help Requested` label or feel free to ask is there could be a financial reward attached as an incentive for these issues, if it’s not.
 
 ## Guidelines
 
