@@ -61,13 +61,11 @@ We *recommend* that teams structure their roadmap as 1 milestone ≈ 1 month.
 
 - **Total Estimated Duration:** Duration of the whole project (e.g. 2 months)
 - **Full-Time Equivalent (FTE):**  Average number of full-time employees working on the project throughout its duration (see [Wikipedia](https://en.wikipedia.org/wiki/Full-time_equivalent), e.g. 2 FTE)
-- **Total Costs:** Requested amount in USD for the whole project (e.g. 12,000 USD). Note that the acceptance criteria and additional benefits vary depending on the level of funding requested.
 
 ### Milestone 1 Example — Basic functionality
 
 - **Estimated duration:** 1 month
 - **FTE:**  1,5
-- **Costs:** 8,000 USD
 
 
 | Number | Deliverable | Specification |
@@ -77,7 +75,6 @@ We *recommend* that teams structure their roadmap as 1 milestone ≈ 1 month.
 
 - **Estimated Duration:** 1 month
 - **FTE:**  1,5
-- **Costs:** 8,000 USD
 
 ...
 
