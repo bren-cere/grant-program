@@ -53,7 +53,7 @@ You can find general documentation and more information on Cere Network and the 
 ### Application Submission
 1. Fork [this repository](https://github.com/Cerebellum-Network/grant-program) (branch: `master`)  or `git pull` to update your existing repo.
 2. Create a new branch called `Grant App - Project Name`.
-3. Create a copy of the `application_proposal.md` file in the `applications/` directory of your newly created fork.
+3. Create a copy of the `application_template.md` file in the `applications/` directory of your newly created fork.
 4. Name the new file after your project: `project_name.md`.
 5. Fill out the template with the details of your project.
    💡 That file should contain ALL necessary information for complete evaluation of the proposed grant! And the more information, the faster the review.

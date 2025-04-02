@@ -28,13 +28,13 @@ The terms defined in this section whenever used in these Terms and Conditions sh
 
 "Development Work" means any and all development activities related to the Software and undertaken by You. For the avoidance of doubt, any development activities undertaken before the Effective Date in relation to the Software are deemed to constitute Development Work and to form part of the deliverables to be provided by You and be subject to the terms of these Terms and Conditions;
 
-"Effective Date" means the date on which the application is accepted by the CF Grant Committee via the application review process defined below (the date of the merged commit of the application, which can be found under https://github.com/Cerebellum-Network/Cere-Grants-Program/pulls);
+"Effective Date" means the date on which the application is accepted by the CF Grant Committee via the application review process defined below (the date of the merged commit of the application, which can be found under https://github.com/Cerebellum-Network/grant-program/pulls);
 
 "Grant" means the financial support granted by CF to You (i) for the development of the Software in accordance with the Specifications; and (ii) the grant of license rights on the Intellectual Property Rights, according to the terms of these Terms and Conditions. The Parties agree that Grants are unrelated to the actual development costs and the commercial value of the Software;
 
 "Intellectual Property Rights" means any (i) patents, designs, copyright and related rights, database rights, trademarks, trade names (whether registered or unregistered), and the related rights to apply for registration thereof; (ii) applications, extensions and renewals in relation to any of these rights; (iii) know-how and confidential information; and (iv) all other rights of a similar nature and/or having an equivalent effect anywhere in the world;
 
-"Milestones" mean any and all of the milestones specified in the final version of the application under Development Roadmap and approved by the CF Grant Committee in accordance with the Procedure as well as placed in the applications folder of the Cere Grants Program Repository at [https://github.com/Cerebellum-Network/Cere-Grants-Program/tree/master/Applicati](https://github.com/Cerebellum-Network/Cere-Grants-Program/tree/master/Applications)[ons](https://github.com/Cerebellum-Network/Cere-Grants-Program/tree/dev/Applications);
+"Milestones" mean any and all of the milestones specified in the final version of the application under Development Roadmap and approved by the CF Grant Committee in accordance with the Procedure as well as placed in the applications folder of the Cere Grants Program Repository at [https://github.com/Cerebellum-Network/grant-program/tree/master/applications](https://github.com/Cerebellum-Network/grant-program/tree/master/applications);
 
 "Cere Network" means a decentralized storage project, utilizes CRUs as the blockchain token native to its operation and/or functioning;
 
@@ -42,11 +42,11 @@ The terms defined in this section whenever used in these Terms and Conditions sh
 
 "Software" means the deliverables created by You during the development activities performed according to these Terms and Conditions in their final and working version, and that are to be provided to the Foundation in accordance with the Specifications, Milestones and Time Schedule;
 
-"Specifications" mean the reasonably detailed technical and/or other requirements describing the features and functionality of the Software, as specified in the final version of the application approved by the CF Grant Committee in accordance with the Procedure and placed in the applications folder of the Cere Grants Program Repository at [https://github.com/Cerebellum-Network/Cere-Grants-Program/tree/master/Applicati](https://github.com/Cerebellum-Network/Cere-Grants-Program/tree/master/Applications)[ons](https://github.com/Cerebellum-Network/Cere-Grants-Program/tree/dev/Applications).
+"Specifications" mean the reasonably detailed technical and/or other requirements describing the features and functionality of the Software, as specified in the final version of the application approved by the CF Grant Committee in accordance with the Procedure and placed in the applications folder of the Cere Grants Program Repository at [https://github.com/Cerebellum-Network/Cere-Grants-Program/tree/master/Applicati](https://github.com/Cerebellum-Network/grant-program/tree/master/applications)[ons](https://github.com/Cerebellum-Network/Cere-Grants-Program/tree/dev/Applications).
 
 "Terms and Conditions" means this terms and conditions together with any documents referred to in it;
 
-"Roadmap” and “Time Schedule" mean the time schedule specified in the final version of the application approved by the CF Grant Committee in accordance with the Procedure and placed in the applications folder of the Cere Grants Program Repository at [https://github.com/Cerebellum-Network/Cere-Grants-Program/tree/master/Applicati](https://github.com/Cerebellum-Network/Cere-Grants-Program/tree/master/Applications)[ons](https://github.com/Cerebellum-Network/Cere-Grants-Program/tree/dev/Applications).
+"Roadmap” and “Time Schedule" mean the time schedule specified in the final version of the application approved by the CF Grant Committee in accordance with the Procedure and placed in the applications folder of the Cere Grants Program Repository at [https://github.com/Cerebellum-Network/grant-program/tree/master/applications](https://github.com/Cerebellum-Network/grant-program/tree/master/applications).
 
 ## 3. Eligibility
 
@@ -81,19 +81,19 @@ The grants process consists of five mandator parts, each of them described in mo
 
 **(i) Grant application process:**
 
-To apply for a grant of the Cere Grants Program, You shall comply with the procedures established in the README.md file under https://github.com/Cerebellum-Network/Cere-Grants-Program/blob/master/README as well as the process defined inside this document.
+To apply for a grant of the Cere Grants Program, You shall comply with the procedures established in the README.md file under https://github.com/Cerebellum-Network/grant-program/blob/master/README.md as well as the process defined inside this document.
 
 **(ii) Application review process:**
 
-To complete the review process for a grant of the Cere Grants Program, You shall comply with the procedures established in the README.md file under https://github.com/Cerebellum-Network/Cere-Grants-Program/blob/master/README as well as the process defined inside this document. 
+To complete the review process for a grant of the Cere Grants Program, You shall comply with the procedures established in the README.md file under https://github.com/Cerebellum-Network/grant-program/blob/master/README.md as well as the process defined inside this document. 
 
 **(iii) Milestone delivery process:**
 
-To Deliver Milestones for a grant of the Cere Grants Program, You shall comply with the procedures established in the README.md file under https://github.com/Cerebellum-Network/Cere-Grants-Program/blob/master/README as well as the process defined inside this document. 
+To Deliver Milestones for a grant of the Cere Grants Program, You shall comply with the procedures established in the README.md file under https://github.com/Cerebellum-Network/grant-program/blob/master/README.md as well as the process defined inside this document. 
 
 **(iv) Milestone review process:**
 
-To review Milestones Delivered for a grant of the Cere Grants Program, You shall comply with the procedures established in the README.md file under https://github.com/Cerebellum-Network/Cere-Grants-Program/blob/master/README as well as the process defined inside this document.
+To review Milestones Delivered for a grant of the Cere Grants Program, You shall comply with the procedures established in the README.md file under https://github.com/Cerebellum-Network/grant-program/blob/master/README.md as well as the process defined inside this document.
 
 a) Purpose and object of the milestone review process
 
@@ -152,11 +152,11 @@ The Parties acknowledge and agree that the requirements set out in the Milestone
 
 ## 7. Terms of Grant Giving
 
-CF shall grant You, as compensation for the delivery of the Software and the related deliverables and the grant of license rights on the Intellectual Property Rights to the CF, a Grant as indicated in the application placed in the applications folder of the Cere Grants Program Repository at [https://github.com/Cerebellum-Network/Cere-Grants-Program/tree/master/Applications](https://github.com/Cerebellum-Network/Cere-Grants-Program/tree/dev/Applications).
+CF shall grant You, as compensation for the delivery of the Software and the related deliverables and the grant of license rights on the Intellectual Property Rights to the CF, a Grant as indicated in the application placed in the applications folder of the Cere Grants Program Repository at [https://github.com/Cerebellum-Network/grant-program/tree/master/applications](https://github.com/Cerebellum-Network/Cere-Grants-Program/tree/dev/Applications).
 
 The Parties agree that the Grant is a lump-sum payment and that no additional compensation is due for the actual development costs incurred.
 
-The Grant is paid as milestone payments for the accomplishment of the Milestones during several phases of the Development Work as indicated in the main readme file on Github (https://github.com/Cerebellum-Network/Cere-Grants-Program/blob/master/README).
+The Grant is paid as milestone payments for the accomplishment of the Milestones during several phases of the Development Work as indicated in the main readme file on Github (https://github.com/Cerebellum-Network/grant-program/blob/master/README.md).
 
 You shall not be entitled to an increase in compensation, even if you have had more work or greater expenses than anticipated. An increase in compensation is also excluded if extraordinary circumstances which could not have been foreseen prevent the completion of the Software or make it excessively difficult.
 
