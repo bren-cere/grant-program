@@ -110,7 +110,7 @@ The Cere Contributor Program offers valuable benefits to developers interested i
 You can already [run a validator node](https://docs.cere.network/node/install-and-update/start-a-node) for the Cere Blockchain Network to start earning [$CERE Token](https://www.notion.so/681bb1442f084a438be681e8df244335?pvs=21).
 
 ## How to Build your First dApp on the Decentralized Data Cloud?
-**Get started** building your decentralized data dApps!
+**Get started** building your decentralized data dApps!: [Follow this guide to get started!](https://github.com/Cerebellum-Network/grant-program/blob/master/GETSTARTED.md)
 
 
 
