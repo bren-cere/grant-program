@@ -16,7 +16,7 @@ Welcome to the **Developer Console Top-Up System** project! This README provides
 6. [Proposed Solution](#-proposed-solution)
     - [Track 1: On-Ramp Provider & Smart Contract Integration](https://github.com/Cerebellum-Network/grant-program/blob/master/ideas/developer_console_topup/README.md#track-1-on-ramp-provider--smart-contract-integration-)
     - [Track 2: Substrate-Based Enhancements (WIP)](https://github.com/Cerebellum-Network/grant-program/blob/master/ideas/developer_console_topup/README.md#track-2-substrate-based-enhancements-wip)
-7. [Resources](#resources)
+7. [Resources](#-resources)
 8. [Impact and Benefits](#-impact-and-benefits)
 
 ---
