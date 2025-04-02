@@ -38,14 +38,13 @@ The initiative has two primary goals:
 
 ## 🔑 Key Concepts/Keywords
 
-| **Term**              | **Definition**                                                                 |
-|------------------------|-------------------------------------------------------------------------------|
-| **DDC (Decentralized Data Cloud)** | A blockchain-based storage solution for decentralized applications. |
-| **On-Ramp Provider**   | Service enabling fiat-to-crypto conversion.                                   |
-| **Substrate**          | Framework for building blockchain systems.                                    |
-| **Fiat**               | Government-issued currency like USD.                                         |
-| **USDC/USDT**          | Stablecoins pegged to the value of USD.                                       |
-| **Mandates**           | Automated instructions for recurring transactions.                            |
+| **Term**             | **Definition**                                                                 |
+|----------------------|-------------------------------------------------------------------------------|
+| **On-Ramp Provider** | Service enabling fiat-to-crypto conversion.                                   |
+| **Substrate**        | Framework for building blockchain systems.                                    |
+| **Fiat**             | Government-issued currency like USD.                                         |
+| **USDC/USDT**        | Stablecoins pegged to the value of USD.                                       |
+| **Mandates**         | Automated instructions for recurring transactions.                            |
 
 ---
 
