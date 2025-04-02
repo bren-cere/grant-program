@@ -23,24 +23,9 @@ Our dedicated teams within Cere meticulously design these contributor focused gr
 
 Cere's Contributor Grants program offers financial incentives for working on specific problem sets related to Cere codebases. Each task is designed to drive the Cere ecosystem forward, aligned with the objectives of the Cere Contributor Guilds—Angel, Devel, Ops, and Tester. Contributor Grants serve as a bridge between the community's skills and the ecosystem's needs, fostering a culture of open collaboration, knowledge sharing, and collective growth, while  also serving as a platform for developers to showcase their skills and potentially collaborate with us on future projects.
 
-Cere is interesetd in your suggestions for new Grant Proposals too. Check the [Cere Tracks](https://github.com/Cerebellum-Network/contribute/blob/master/TRACKS.md) to learn more about the area's the Cere Community is interested to focus on first.
+Cere is interesetd in your suggestions for new Grant Proposals too. Check the [Cere Tracks](https://github.com/Cerebellum-Network/grant-program/blob/master/TRACKS.md) to learn more about the area's the Cere Community is interested to focus on first.
 
 We're thrilled that you're interested in working on helping us improve the Cere ecosystem, one grant at a time!
-
-## Getting Started
-
-1. **Pre-requisites:** To participate, you must have already [registered](https://noteforms.com/forms/contributor-sign-up) as a Cere Contributor, joined our [Contributor Discord](https://www.notion.so/Github-Grants-REMOVE-a48a5a02d49543a8a4653b5dfbb4c248?pvs=21) and [joined a guild](https://www.notion.so/How-do-I-get-a-Contributor-Guild-Role-in-Discord-335eed6ef3dd47dbaf8e63587878cfe5?pvs=21).
-2. **Find Grants:** You can find a list of [Active grants](https://github.com/Cerebellum-Network/contribute/tree/master/Grants) in our Contributor github repository OR you can search for tag:[help wanted](https://www.notion.so/Github-Grants-REMOVE-a48a5a02d49543a8a4653b5dfbb4c248?pvs=21).
-
-   ⇒ https://github.com/Cerebellum-Network (eg ⇒ [“label: help wanted”](https://github.com/search?q=org%3ACerebellum-Network%20label%3A%22help%20wanted%22&type=issues))
-
-   ⇒ https://github.com/cere-io (eg ⇒ “[label: help wanted](https://github.com/search?q=org%3ACere-io%20label%3A%22help%20wanted%22&type=issues)”)
-
-3. **Express Interest**: Describe your background, your proposed solution, and key delivery milestones timeline in the issue where the grant is described, or you can submit your proposal to us using this [form](https://noteforms.com/forms/cere-grants-submission-zivk7s).
-4. **Issue Assignment:** After successful negotiation, you will get the issue assigned to you.
-5. **Submit PR**: Open a Pull Request and request feedback.
-6. **Incorporate Feedback**: Make necessary changes based on reviews.
-7. **Get Paid**: Upon PR approval and merge, submit an [invoice request](https://noteforms.com/forms/contributor-invoices-aktm0s).
 
 
 ## Guidelines
@@ -99,24 +84,6 @@ Once your Grant Application (PR) is approved, we will initiate Project Onboardin
 3. Plan check-in & Office-Hours schedule.
 4. Officially Kick-off your project(We will create project repo for you and provide access to you and your team).
 
-### Milestone Review, Delivery, and Payment
-Milestones are to be delivered according to the following instructions:
-
-1. Use the same GitHub account that submitted the application.
-    1. Create a new branch based on the `Grant App` branch created previously named `Milestones - Project Name`.
-    2. Duplicate the `Milestone Delivery Template` file in the `Milestones Delivery` folder.
-    3. If this is your first milestone: Create a new folder in the `Milestones Delivery` folder you’re in now named `$Project Name`.
-    4. Rename the new file to `milestone-X.md` and move it to the `$Project Name` folder you created previously.
-    5. Follow the instructions as shown in the `milestone-X.md` file created previously.
-    6. Commit the changes to the new previously created project milestones branch.
-    7. Prepare a pull request against the original Grants Repository to initiate the review!
-2. Finally, submit your invoice to `community@cere.io`.
-
-   Payment is made in ERC-20 Cere Token or USDC on Ethereum or Polygon Mainnet.
-
-Optionally, for Maintenance Grants:
-
-1. At the end of each month, you will need to provide a comprehensive report of the work done, including the list of issues/bugs/pull requests worked on, time spent on each of these & finally the associated cost.
 
 ### Changes to a Grant after Approval
 Accepted grant applications can be amended at any time. However, doing so necessitates a re-evaluation by the committee and requires the same number of approvals as a new application. If your application has been accepted and during development you find that your project significantly deviates from the original specifications, please open a new pull request that modifies the existing application. This also applies in case of significant delays.
@@ -144,12 +111,8 @@ You can already [run a validator node](https://docs.cere.network/node/install-a
 
 ## How to Build your First dApp on the Decentralized Data Cloud?
 **Get started** building your decentralized data dApps!
-1. [Set-up your local environment and new wallet](https://docs.cere.network/ddc/developer-guide/setup) on the Cere Blockchain.
-2. Use https://github.com/Cerebellum-Network/ddc-cli or the [Cere Faucet App](https://stats.cere.network/faucet) to fund your Blockchain wallet with Testnet $CERE tokens.
-3. Install https://github.com/Cerebellum-Network/cere-ddc-sdk-js and [create your first bucket on DDC.](https://docs.cere.network/ddc/developer-guide/quickstart)
-4. Build your first [web3 cloud file sharing dApp](https://docs.cere.network/ddc/developer-guide/examples/file-sharing-platform) on DDC.
-5. Deploy your first [Open Source game with DDC integrations](https://app.dework.xyz/cere-network/main-space-35372?taskId=f8f34866-5d69-4a83-841c-8deb145044a3)! 👾
-6. Celebrate with the community in [Discord](https://discord.gg/sR3hyRp6PK)! 🚀
+
+
 
 ## Cere Network Contributor Forum
 - Ask questions
