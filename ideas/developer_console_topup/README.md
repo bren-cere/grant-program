@@ -1,6 +1,6 @@
-# Grant Proposal: Automated DDC Account Top-Up System 🚀 [WIP]
+# Grant Proposal: Developer Console Top-Up System 🚀 [WIP]
 
-Welcome to the **Automated DDC Account Top-Up System** project! This README provides an overview of the challenges, proposed solutions, and implementation details for streamlining the top-up process for Decentralized Data Cloud (DDC) accounts. Let's dive in! 🌟
+Welcome to the **Developer Console Top-Up System** project! This README provides an overview of the challenges, proposed solutions, and implementation details for streamlining the top-up process for Decentralized Data Cloud (DDC) accounts. Let's dive in! 🌟
 
 ---
 
