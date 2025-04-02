@@ -23,7 +23,7 @@ Welcome to the **Developer Console Top-Up System** project! This README provides
 
 ## 📝 Introduction
 
-The current manual top-up process for DDC accounts is inefficient, requiring multiple steps and creating risks of service interruptions due to delays. This project aims to **automate and simplify the process** using fiat currencies, stablecoins (USDC/USDT), and blockchain technology.
+The document addresses challenges faced by DDC customers in topping up their accounts, focusing on inefficiencies in the current system. These include a multi-step manual process requiring token transfers between blockchain networks and risks of service interruptions due to delayed top-ups. The proposed solution aims to streamline this process through automation and integration, leveraging fiat currencies, USDC/USDT, and blockchain technology.
 
 ---
 
@@ -118,13 +118,7 @@ Steps:
 Develop an automated system for recurring top-ups based on mandates, ensuring uninterrupted service delivery.
 
 #### Quickstart Guide {WIP} 🚀
-Steps:
-1. Set up a development environment with required tools (Node.js, Solidity compiler, etc.).
-2. Integrate with an On-Ramp API (e.g., Ramp Network, Transak).
-3. Deploy smart contracts for token swaps and teleportation.
-4. Connect to Hyperbridge for token transfers between networks.
-5. Update Developer Console UI for seamless user interaction.
-6. Test the end-to-end process.
+[Link to Quick Start Guide](Track2.md)
 
 #### Tasks 📋
 1. Allow users to set up mandates via Cere Wallet.
