@@ -49,7 +49,7 @@ The initiative has two primary goals:
 ---
 
 ## ⚙️ Existing System and Challenges
-![../../images/image1.png](../../images/image1.png)
+![../../images/image1.png](../../documentation/images/image1.png)
 ### Current System Workflow
 
 1. **Creating a DDC Account:** Customers specify account ID and top-up amount, verified by the system.
@@ -67,19 +67,19 @@ The initiative has two primary goals:
 ### Steps to Manually Top-Up
 
 1. Sign up at the Developer Console using an email ID.
-![../../images/image2.png](../../images/image2.png)
+![../../images/image2.png](../../documentation/images/image2.png)
 2. Click the "Top Up" button to initiate a transaction.
-   ![../../images/image3.png](../../images/image3.png)
+   ![../../images/image3.png](../../documentation/images/image3.png)
 3. Transfer funds manually from the Cere Wallet to the DDC Account.
-   ![../../images/image4.png](../../images/image4.png)
+   ![../../images/image4.png](../../documentation/images/image4.png)
 
 ---
 
 ## 💡 Proposed Solution
 
 ### Track 1: On-Ramp Provider & Smart Contract Integration 🌉
-![../../images/image5.png](../../images/image5.png)
-![../../images/image6.png](../../images/image6.png)
+![../../images/image5.png](../../documentation/images/image5.png)
+![../../images/image6.png](../../documentation/images/image6.png)
 
 #### Objective
 Enable direct top-ups using fiat (USD) or stablecoins (USDC/USDT), reducing manual effort and streamlining the user experience.
@@ -113,7 +113,7 @@ Steps:
 ---
 
 ### Track 2: Substrate-Based Enhancements (WIP)
-![../../images/image7.png](../../images/image7.png)
+![../../images/image7.png](../../documentation/images/image7.png)
 #### Objective
 Develop an automated system for recurring top-ups based on mandates, ensuring uninterrupted service delivery.
 
