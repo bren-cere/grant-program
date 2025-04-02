@@ -1,6 +1,6 @@
 # Grant Proposal: Developer Console Top-Up System 🚀 [WIP]
 
-Welcome to the **Developer Console Top-Up System** project! This README provides an overview of the challenges, proposed solutions, and implementation details for streamlining the top-up process for Decentralized Data Cloud (DDC) accounts. Let's dive in! 🌟
+Welcome to the **Developer Console Top-Up System** project! This README provides an overview of the challenges, proposed solutions, and implementation details for streamlining the top-up process for DDC accounts. Let's dive in! 🌟
 
 ---
 
@@ -40,7 +40,6 @@ The initiative has two primary goals:
 
 | **Term**              | **Definition**                                                                 |
 |------------------------|-------------------------------------------------------------------------------|
-| **DDC (Decentralized Data Cloud)** | A blockchain-based storage solution for decentralized applications. |
 | **On-Ramp Provider**   | Service enabling fiat-to-crypto conversion.                                   |
 | **Substrate**          | Framework for building blockchain systems.                                    |
 | **Fiat**               | Government-issued currency like USD.                                         |
