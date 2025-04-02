@@ -117,6 +117,15 @@ Steps:
 #### Objective
 Develop an automated system for recurring top-ups based on mandates, ensuring uninterrupted service delivery.
 
+#### Quickstart Guide {WIP} 🚀
+Steps:
+1. Set up a development environment with required tools (Node.js, Solidity compiler, etc.).
+2. Integrate with an On-Ramp API (e.g., Ramp Network, Transak).
+3. Deploy smart contracts for token swaps and teleportation.
+4. Connect to Hyperbridge for token transfers between networks.
+5. Update Developer Console UI for seamless user interaction.
+6. Test the end-to-end process.
+
 #### Tasks 📋
 1. Allow users to set up mandates via Cere Wallet.
 2. Monitor account balances for low-level detection.
