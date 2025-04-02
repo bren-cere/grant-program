@@ -5,7 +5,7 @@
 
 1. [Create and top up your Cere Wallet](https://github.com/Cerebellum-Network/grant-program/blob/master/GETSTARTED.md#how-to-create-and-top-up-your-cere-wallet)
 2. [Top up DDC account](https://github.com/Cerebellum-Network/grant-program/blob/master/GETSTARTED.md#how-to-top-up-ddc-account)
-3. [Export your Cere Wallet as JSON.](https://github.com/Cerebellum-Network/grant-program/blob/master/GETSTARTED.md#export-your-cere-wallet-as-json-3-minutes)
+3. [Export your Cere Wallet as JSON.](https://github.com/Cerebellum-Network/grant-program/blob/master/GETSTARTED.md#export-your-cere-wallet-as-json)
 
 
 ## Code examples
