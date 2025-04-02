@@ -23,7 +23,7 @@ Our dedicated teams within Cere meticulously design these contributor focused gr
 
 Cere's Contributor Grants program offers financial incentives for working on specific problem sets related to Cere codebases. Each task is designed to drive the Cere ecosystem forward, aligned with the objectives of the Cere Contributor Guilds—Angel, Devel, Ops, and Tester. Contributor Grants serve as a bridge between the community's skills and the ecosystem's needs, fostering a culture of open collaboration, knowledge sharing, and collective growth, while  also serving as a platform for developers to showcase their skills and potentially collaborate with us on future projects.
 
-Cere is interesetd in your suggestions for new Grant Proposals too. Check the [Cere Tracks](https://github.com/Cerebellum-Network/grant-program/blob/master/TRACKS.md) to learn more about the area's the Cere Community is interested to focus on first.
+Cere is interesetd in your suggestions for new Grant Proposals too. Check the [Cere Tracks](https://github.com/Cerebellum-Network/grant-program/blob/master/documentation/TRACKS.md) to learn more about the area's the Cere Community is interested to focus on first.
 
 We're thrilled that you're interested in working on helping us improve the Cere ecosystem, one grant at a time!
 
@@ -110,7 +110,7 @@ The Cere Contributor Program offers valuable benefits to developers interested i
 You can already [run a validator node](https://docs.cere.network/node/install-and-update/start-a-node) for the Cere Blockchain Network to start earning [$CERE Token](https://www.notion.so/681bb1442f084a438be681e8df244335?pvs=21).
 
 ## How to Build your First dApp on the Decentralized Data Cloud?
-**Get started** building your decentralized data dApps!: [Follow this guide to get started!](https://github.com/Cerebellum-Network/grant-program/blob/master/GETSTARTED.md)
+**Get started** building your decentralized data dApps!: [Follow this guide to get started!](https://github.com/Cerebellum-Network/grant-program/blob/master/documentation/GETSTARTED.md)
 
 
 
