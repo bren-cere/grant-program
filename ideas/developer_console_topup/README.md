@@ -62,7 +62,7 @@ The initiative has two primary goals:
 
 ---
 
-## 🛠️ Manual DDC Account Top-Up Process
+## 🛠️ Manually Top-Up DDC Account to understand current system (Exercise)
 
 ### Steps to Manually Top-Up
 
