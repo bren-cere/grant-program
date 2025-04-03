@@ -50,8 +50,8 @@ You can find general documentation and more information on Cere Network and the 
 
 ## Application Process
 
-### Choose Idea OR Come with your Idea
-Click  [here](ideas%2Fopen_ideas.md) for open ideas.
+### Choose Idea OR Come with your proposals
+Click  [here](ideas%2Fopen_ideas.md) for open proposals.
 
 ### Application Submission
 1. Fork [this repository](https://github.com/Cerebellum-Network/grant-program) (branch: `master`)  or `git pull` to update your existing repo.
