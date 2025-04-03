@@ -50,6 +50,9 @@ You can find general documentation and more information on Cere Network and the 
 
 ## Application Process
 
+### Choose Idea OR Come with your Idea
+Click  [here](ideas%2Fopen_ideas.md) for open ideas.
+
 ### Application Submission
 1. Fork [this repository](https://github.com/Cerebellum-Network/grant-program) (branch: `master`)  or `git pull` to update your existing repo.
 2. Create a new branch called `Grant App - Project Name`.
@@ -72,12 +75,7 @@ You can find general documentation and more information on Cere Network and the 
    Unless specified otherwise, the day on which it is accepted will be considered the starting date of the project, and will be used to estimate delivery dates.
 
 ### Onboarding
-Once your Grant Application (PR) is approved, we will initiate Project Onboarding, where you will:
-
-1. be welcomed to the programme with an introduction to the team and an overview of the legal and funding aspects.
-2. Meet your Project Mentor.
-3. Plan check-in & Office-Hours schedule.
-4. Officially Kick-off your project(We will create project repo for you and provide access to you and your team).
+We will review the application and provide the further instruction.
 
 
 ### Changes to a Grant after Approval
