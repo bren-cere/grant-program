@@ -5,7 +5,7 @@ Hey Developers! Welcome to the **Idea(s) Portal**. From the following list, you 
 
 ### List of Ideas
 
-#### Developer Console USDC / Fiat Onboarding
+#### 1. [Developer Console Top-Up Documentation](https://github.com/Cerebellum-Network/cluster-apps/blob/dev/apps/developer-console/developer_console_topup.md)
 **Objective:**  
 The primary goal of this initiative is to enhance the **Developer Console UI** by enabling users to directly top up their **DDC wallets** using fiat currencies (e.g., USD) or cryptocurrencies like **USDC/USDT** on EVM-based networks. This feature aims to:
 - Streamline the onboarding process for developers.
