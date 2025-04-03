@@ -1,0 +1,4 @@
+[submodule "ideas/developer_console_topup/cluster-apps"]
+	path = ideas/developer_console_topup/cluster-apps
+	url = https://github.com/Cerebellum-Network/cluster-apps.git
+	branch = dev
