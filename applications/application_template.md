@@ -88,7 +88,7 @@ Please include here
 
 ## Preferred method of funds delivery
 - USD/EUR Fiat or
-- USDC on Polygon address: 0x00000
+- USDC on Eth address: 0x00000
 
 ## Link to Logo image 1:1 (in github)
 - ...
