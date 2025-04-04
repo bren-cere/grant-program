@@ -1,8 +1,8 @@
 ## Welcome to the RFP portal! 🎉
 
-Hey Developers! 👋 Welcome. From the list below, you can pick an idea and start working on it. 🚀 Your contributions will help enhance the **Cere Ecosystem** and make it even more creative and impactful. 🌟
+Hey Developers! 👋 Welcome. From the list below, you can pick an RFP and start working on it. 🚀 Your contributions will help enhance the **Cere Ecosystem** and make it even more creative and impactful. 🌟
 
-### 💡 List of Ideas
+### 💡 List of RFPs
 
 #### 1. 🛠️ [Developer Console Top-Up Documentation](https://github.com/Cerebellum-Network/cluster-apps/blob/dev/apps/developer-console/developer_console_topup.md)
 **Objective:**  
