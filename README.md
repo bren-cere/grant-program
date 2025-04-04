@@ -51,7 +51,7 @@ You can find general documentation and more information on Cere Network and the 
 ## Application Process
 
 ### Choose RFP  OR Come with your RFP
-Click  [here](request_for_proposals/README.md) for open proposals.
+Click  [here](request_for_proposals/rfp1/README.md) for open proposals.
 
 ### Application Submission
 1. Fork [this repository](https://github.com/Cerebellum-Network/grant-program) (branch: `master`)  or `git pull` to update your existing repo.
@@ -76,8 +76,13 @@ Click  [here](request_for_proposals/README.md) for open proposals.
    Unless specified otherwise, the day on which it is accepted will be considered the starting date of the project, and will be used to estimate delivery dates.
 
 ### Onboarding
-We will review the application and provide the further instruction.
+We will review the application and will provide you with feedback as soon as possible.
 
+If your application is approved, please proceed as follows:
+1.	Quick Start Guide: Refer to the quick start guide provided in the corresponding RFP README for detailed instructions. For example, you can review the guide here: [Developer Console Topup Guide](https://github.com/Cerebellum-Network/cluster-apps/blob/dev/apps/developer-console/developer_console_topup.md#quick-start-guide-).
+2.	Repository Setup: Clone the corresponding repository to your local environment.
+3.	Development: Begin implementing the required changes as outlined in the documentation.
+4.	Pull Request: Once your changes are complete, submit a pull request. The repository maintainer will review your PR and provide further feedback if necessary.
 
 ### Changes to a Grant after Approval
 Accepted grant applications can be amended at any time. However, doing so necessitates a re-evaluation by the committee and requires the same number of approvals as a new application. If your application has been accepted and during development you find that your project significantly deviates from the original specifications, please open a new pull request that modifies the existing application. This also applies in case of significant delays.
