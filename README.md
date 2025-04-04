@@ -51,7 +51,7 @@ You can find general documentation and more information on Cere Network and the 
 ## Application Process
 
 ### Choose RFP  OR Come with your RFP
-Click  [here](request_for_proposals%2README.md) for open proposals.
+Click  [here](request_for_proposals/README.md) for open proposals.
 
 ### Application Submission
 1. Fork [this repository](https://github.com/Cerebellum-Network/grant-program) (branch: `master`)  or `git pull` to update your existing repo.
