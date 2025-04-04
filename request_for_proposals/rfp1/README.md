@@ -18,3 +18,7 @@ Up to 2.000 USDT
 ---
 
 💡 Start innovating today and help make the Cere Ecosystem better than ever! 🌐✨
+
+Team | #PR | Status 
+--- |-----|--------
+Example | https://github.com/Cerebellum-Network/grant-program/pull/2 | Open   

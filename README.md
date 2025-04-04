@@ -60,12 +60,13 @@ Click  [here](request_for_proposals%2README.md) for open proposals.
 4. Name the new file after your project: `project_name.md`.
 5. Fill out the template with the details of your project.
    💡 That file should contain ALL necessary information for complete evaluation of the proposed grant! And the more information, the faster the review.
-6. Review the `Terms and Conditions` file inside the Documents folder.
-7. Once you're done, create a pull request.
+6. Put the file in corresponding RFP folder
+7. Review the `Terms and Conditions` file inside the Documents folder.
+8. Once you're done, create a pull request.
 
    ⚠️ By initiating a pull request, you are indicating you have ready and accepted the terms and conditions as provided.
 
-8. At this stage, the pull request should only contain *one new file* — the markdown file you created from the template.
+9. At this stage, the pull request should only contain *one new file* — the markdown file you created from the template.
 
 ### Application Review
 1. The Cere Foundation Grants Committee will issue comments and request changes on the pull request.
