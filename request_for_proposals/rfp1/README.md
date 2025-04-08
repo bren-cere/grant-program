@@ -1,4 +1,5 @@
-
+### 🚨 Reminder: Review the Contribution Guidelines!
+Before diving into your proposal, make sure to carefully review the [**Contribution Guidelines**](..%2F..%2FREADME.md). ✅
 
 
 #### 🛠️ [Developer Console Top-Up Documentation](https://github.com/Cerebellum-Network/cluster-apps/blob/dev/apps/developer-console/developer_console_topup.md)
