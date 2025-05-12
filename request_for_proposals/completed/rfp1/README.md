@@ -22,4 +22,4 @@ Up to 2.000 USDT
 
 Team | #PR | Status 
 --- |-----|--------
-Emmanuel Thomas | [https://github.com/Cerebellum-Network/grant-program/pull/2](https://github.com/Cerebellum-Network/grant-program/pull/10) | Closed   
+Emmanuel Thomas | [https://github.com/Cerebellum-Network/grant-program/pull/10](https://github.com/Cerebellum-Network/grant-program/pull/10) | Winning proposal   
