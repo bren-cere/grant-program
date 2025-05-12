@@ -1,3 +1,4 @@
+## 🚨🚨 THIS RFP IS CLOSED - PR11 was selected as the winning proposal🚨🚨
 ### 🚨 Reminder: Review the Contribution Guidelines!
 Before diving into your proposal, make sure to carefully review the [**Contribution Guidelines**](..%2F..%2FREADME.md). ✅
 
@@ -21,4 +22,4 @@ Up to 2.000 USDT
 
 Team | #PR | Status 
 --- |-----|--------
-Example | https://github.com/Cerebellum-Network/grant-program/pull/2 | Open   
+Emmanuel Thomas | [https://github.com/Cerebellum-Network/grant-program/pull/2](https://github.com/Cerebellum-Network/grant-program/pull/10) | Closed   
