@@ -1,4 +1,4 @@
-### 🚨 Reminder: Review the Contribution Guidelines!
+**🚨 Reminder: Review the Contribution Guidelines!**
 
 Before submitting your proposal, please make sure to carefully review the [Contribution Guidelines](https://github.com/Cerebellum-Network/grant-program/blob/master/README.md). ✅
 
