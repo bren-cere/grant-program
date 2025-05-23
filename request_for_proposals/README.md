@@ -4,6 +4,6 @@ Hey Developers! 👋 Welcome. From the list below, you can pick an RFP and start
 
 | RFPs                  | # | Status  |
 |-----------------------|---|---------|
-| [DDC SDK: Built-in Encryption](https://github.com/Cerebellum-Network/grant-program/tree/master/request_for_proposals/rfp3)  | 39 | Open |
+| [DDC SDK: Built-in Encryption](https://github.com/Cerebellum-Network/grant-program/tree/master/request_for_proposals/rfp3)  | 3 | Open |
 | [Ramp Service](https://github.com/Cerebellum-Network/grant-program/tree/master/request_for_proposals/rfp2)  | 2 | Open |
 | [Dev Console Top-up](https://github.com/Cerebellum-Network/grant-program/tree/master/request_for_proposals/completed/rfp1)  | 1 | In progress |
