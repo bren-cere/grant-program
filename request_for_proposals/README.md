@@ -4,5 +4,5 @@ Hey Developers! 👋 Welcome. From the list below, you can pick an RFP and start
 
 | RFPs                  | # | Status  |
 |-----------------------|---|---------|
-| Ramp Service  | 1 | Active |
-| Dev Console Top-up  | 1 | Completed |
+| [Ramp Service](https://github.com/Cerebellum-Network/grant-program/tree/master/request_for_proposals/rfp2)  | 2 | Active |
+| [Dev Console Top-up](https://github.com/Cerebellum-Network/grant-program/tree/master/request_for_proposals/completed/rfp1)  | 1 | Completed |
