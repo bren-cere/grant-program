@@ -8,15 +8,13 @@ Before submitting your proposal, please make sure to carefully review the [Contr
 
 ### Objective
 
-The goal of this RFP is to develop a **modular, secure, and extensible Ramp Service** for the Cere Network ecosystem. This service will enable seamless top-up of DDC (Decentralized Data Cluster) accounts using a variety of familiar payment methods and blockchain assets.
+The goal of this RFP is to develop a **modular, secure, and extensible Ramp Service** for the Cere Network ecosystem. This service will enable seamless top-up of DDC (Decentralized Data Cluster) accounts. 
 
 #### Key Requirements
 
-- **Modularity:** The service should be designed for easy integration with existing and future Cere products, as well as third-party services.
-- **Security:** Must follow best practices for secure handling of user data, payments, and blockchain transactions.
-- **Extensibility:** Should support the addition of new payment methods, blockchain assets, and compliance modules.
-- **User Experience:** Provide a simple and intuitive interface for users to top up DDC accounts.
-- **Payment Methods:** Support both fiat payments (e.g., credit/debit cards, bank transfers) and major cryptocurrencies.
+- Bridge the Cluster’s Developer Console, Customer Payment Service (CPS), and Cere Mainnet Node.
+- Accept crypto payments from CPS on a designated L2 blockchain, verify and process these payments, and top up user DDC accounts on Cere Mainnet using a hot wallet.
+- Ensure the system is modular, secure, and easily extensible to support new L2s, assets, and payment flows.
 
 ### Budget
 
