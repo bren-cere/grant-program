@@ -1,4 +1,4 @@
-## 🚨🚨 THIS RFP IS CLOSED - PR11 was selected as the winning proposal🚨🚨
+## 🚨🚨 THIS RFP IS CLOSED - PR10 was selected as the winning proposal🚨🚨
 ### 🚨 Reminder: Review the Contribution Guidelines!
 Before diving into your proposal, make sure to carefully review the [**Contribution Guidelines**](..%2F..%2FREADME.md). ✅
 
