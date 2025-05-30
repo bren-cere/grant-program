@@ -14,7 +14,7 @@ You can also follow our important activities via:
 * Youtube: Cere Network
 * Twitter: @CereNetwork - https://twitter.com/cereofficial
 
-# Contributor Grants
+# Grants, BOunties & RFPs
 
 ## About
 Cere Grants offers financial rewards for solving specific issues in Cere’s open-source codebases based on complexity. From first-time onboarding missions, to full-features, bug-fixes and new integrations and research projects, each grant comes with its own set of privileges and responsibilities.
