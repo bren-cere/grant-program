@@ -3,7 +3,7 @@
 Welcome to the Cere Contributor community repository! This is where you can find meta-discussion, document templates, community guidelines, instructions on how to join the community and how to contribute!
 
 To follow the latest discussions, join us on discord -> https://cere.network/discord
-The latest developer documentation can be found at https://docs.cere.network & https://portal.cere.network
+The latest developer documentation can be found at https://docs.cere.network & https://hub.cere.network
 
 You can also follow our important activities via:
 * Contributor Forum - https://github.com/Cerebellum-Network/contribute/discussions
