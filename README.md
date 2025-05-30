@@ -19,11 +19,7 @@ You can also follow our important activities via:
 ## About
 Cere Grants offers financial rewards for solving specific issues in Cere’s open-source codebases based on complexity. From first-time onboarding missions, to full-features, bug-fixes and new integrations and research projects, each grant comes with its own set of privileges and responsibilities.
 
-Our dedicated teams within Cere meticulously design these contributor focused grants to align with the vision and goals set-out on the Cere Roadmap. From first-time to confirmed contributors to full-features and bug-fixes, each grant comes with its own set of privileges and responsibilities. ℹ️ Learn more.
-
-Cere's Contributor Grants program offers financial incentives for working on specific problem sets related to Cere codebases. Each task is designed to drive the Cere ecosystem forward, aligned with the objectives of the Cere Contributor Guilds—Angel, Devel, Ops, and Tester. Contributor Grants serve as a bridge between the community's skills and the ecosystem's needs, fostering a culture of open collaboration, knowledge sharing, and collective growth, while  also serving as a platform for developers to showcase their skills and potentially collaborate with us on future projects.
-
-Cere is interesetd in your suggestions for new Grant Proposals too. Check the [Cere Tracks](https://github.com/Cerebellum-Network/grant-program/blob/master/documentation/TRACKS.md) to learn more about the area's the Cere Community is interested to focus on first.
+Our dedicated teams within Cere meticulously design these contributor focused grants to align with the vision and goals set-out on the Cere Roadmap. From first-time to confirmed contributors to full-features and bug-fixes, each grant comes with its own set of privileges and responsibilities.
 
 We're thrilled that you're interested in working on helping us improve the Cere ecosystem, one grant at a time!
 
@@ -36,7 +32,7 @@ While financial incentives are a part of the program, our primary aim is to fost
 
 ### Quality Over Quantity
 
-We expect high-quality code submissions. Please only undertake grants that align with your skill set, as we cannot accept or reward subpar contributions. While our development team is available for limited support, this program is not designed to serve as a learning platform for beginners. Check our [Cere Onboarding Missions](https://www.notion.so/Onboarding-Missions-dc2ca746ac1b426497d6c850abfa6005?pvs=21) to learn more about our incentivized onboarding program.
+We expect high-quality code submissions. Please only undertake grants that align with your skill set, as we cannot accept or reward subpar contributions. While our development team is available for limited support, this program is not designed to serve as a learning platform for beginners. 
 
 ### Code of Conduct
 We also do have a code of conduct that we take pretty seriously. Based on this, we may need to [block users](https://github.blog/2016-04-04-organizations-can-now-block-abusive-users/) who don't comply with our rules. But we're sure you'll do great!
@@ -46,7 +42,7 @@ We also do have a code of conduct that we take pretty seriously. Based on this, 
 ## Support
 Our Grants Programs provide funding and feedback on delivered milestones. While we do not guarantee hands-on support as part of a grant, we will do our best to help you face specific issues during development and direct you to the correct resources. If you need more hands-on support, you can also reach out to us at `community@cere.io` to discuss additional options available. We are happy to work out a plan to get you the hands-on technical, ecosystem, and strategic long-term support and access to extensive resources you need.
 
-You can find general documentation and more information on Cere Network and the DDC on the [Cere’s Community Portal](https://portal.cere.network) and the [Contributor FAQ](https://portal.cere.network/FAQ-47632bf4e3ff45ab999e66463d634fbf), and we encourage you to join the [Cere Contributor’s Discord](https://www.notion.so/5fd4b7fa6ddf43309e167154477d59d2?pvs=21) to get help with specific issues or stay up to date with the most recent developments.
+You can find general documentation and more information on Cere Network and the DDC on the [Cere’s Community Portal](https://hub.cere.network), and we encourage you to join the [Cere Contributor’s Discord](https://discord.gg/HtkRSgUCMB) to get help with specific issues or stay up to date with the most recent developments.
 
 ## Application Process
 
@@ -102,15 +98,8 @@ After this period, if the termination proposal receives 3 approvals, regardless 
 
 All funding and other services will be terminated immediately, with no exceptions. If the proposed project is to be reconsidered, a new application process will be required.
 
-
-## The Contributor Program
-The Cere Contributor Program offers valuable benefits to developers interested in building decentralized applications on the platform, providing free public goods such as educational resources, tools and token. Participants receive dedicated support through forums, opportunities for grants and funding, and access to educational events, fostering an innovative and collaborative environment for development on Cere.
-
-You can already [run a validator node](https://docs.cere.network/node/install-and-update/start-a-node) for the Cere Blockchain Network to start earning [$CERE Token](https://www.notion.so/681bb1442f084a438be681e8df244335?pvs=21).
-
 ## How to Build your First dApp on the Decentralized Data Cloud?
 **Get started** building your decentralized data dApps!: [Follow this guide to get started!](https://github.com/Cerebellum-Network/grant-program/blob/master/documentation/GETSTARTED.md)
-
 
 
 ## Cere Network Contributor Forum
