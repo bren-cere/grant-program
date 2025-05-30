@@ -99,7 +99,7 @@ After this period, if the termination proposal receives 3 approvals, regardless 
 All funding and other services will be terminated immediately, with no exceptions. If the proposed project is to be reconsidered, a new application process will be required.
 
 ## How to Build your First dApp on the Decentralized Data Cloud?
-**Get started** building your decentralized data dApps!: [Follow this guide to get started!](https://github.com/Cerebellum-Network/grant-program/blob/master/documentation/GETSTARTED.md)
+**Get started** building your decentralized data dApps: [Follow this guide to get started!](https://github.com/Cerebellum-Network/grant-program/blob/master/documentation/GETSTARTED.md)
 
 
 ## Cere Network Contributor Forum
