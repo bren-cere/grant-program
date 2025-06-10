@@ -30,7 +30,7 @@ Upon timely & successful completion of Milestone 1, you can move forward with Mi
   * `encrypt()` + `decrypt()` return identical plaintext for all NIST test vectors.  
   * No existing SDK tests regress; bundle-size increase ≤ 5 KB gzipped.  
   * No new `eslint-plugin-security` / `no-weak-crypto` warnings.  
-  * Work completes in **1 dev-day** (timeline confirmed by Ulad).
+  * Milestone 1 should be completed in **1 dev-day** .
 
 ---
 
