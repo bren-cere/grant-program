@@ -30,7 +30,7 @@ No fixed budget is set for this RFP. Proposals will be evaluated based on techni
 
 | Team                  | #PR  | Status  |
 |-----------------------|------|---------|
-| _No applications yet_ |      |         |
+| _Bren  _ |      | In progress   |
 
 ---
 
