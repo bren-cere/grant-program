@@ -16,7 +16,7 @@ The goal: **create your own agent flow (image filter) that produces consistent r
 1. **$200 each** for the first 5 functional filters  
 2. **+ $100 bonus** for the winning submission (decided by partner campaign vote)
 
-## ℹ️ How you're agent will be used
+## ℹ️ How your agent will be used
 ![AI Image Challenge USER FLOW](https://cdn.ddcdragon.com/1312/baear4ig2due6ml6mstlpyssi5mee2ulzdam4fena3yolmmvdkixfaatq4u/bullish_image_challenge_flow_v2.png)
 
 ## 🤖 What You’ll Learn
