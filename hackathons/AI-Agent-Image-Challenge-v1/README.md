@@ -10,6 +10,7 @@ The goal: **create your a fun AI Agent image filter that will be used by thousan
 - On top of that, your agent will be used during our partner campaign and you’ll earn an **additional $100** each time a user wins by using your AI agent!
 - **Limited slots are available, so be quick to sign up!**
 
+
 **Can't wait to start?** Apply for access: [Noteforms Application](https://noteforms.com/forms/bullish-image-challenge-ajxsbr)  
 
 ## 🏆 Prizes
