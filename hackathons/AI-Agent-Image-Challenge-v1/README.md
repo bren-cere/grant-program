@@ -1,6 +1,4 @@
 # Cere AI Agent Image Challenge (Closed Beta)
-
-Welcome to the **AI Agent Image Challenge** !  
 This is your chance to be among the **first external developers** to build custom AI agents on our closed beta platform.
 
 The goal: **create your own agent flow (image filter) that produces consistent results on par with ChatGPT**.
@@ -13,7 +11,7 @@ The goal: **create your own agent flow (image filter) that produces consistent r
 
 ## 🏆 Prizes
 
-1. **$200 each** for the first 5 functional filters  
+1. **$200 each** for the first 5 functional filters (pending approval)
 2. **+ $100 bonus** for the winning submission (decided by partner campaign vote)
 
 ## ℹ️ How you're agent will be used
@@ -217,7 +215,8 @@ Expected response:
 
 ## 📋 Evaluation Criteria (to be finalized)
 
-- ✅ Filter must be **fully functional**  
+- ✅ Filter must be **fully functional**
+- ✅ Fun/viral factor
 - ✅ Results must be **consistent & comparable to ChatGPT-level quality**  
 - ✅ Creative use of Cere AI Stack  
 
