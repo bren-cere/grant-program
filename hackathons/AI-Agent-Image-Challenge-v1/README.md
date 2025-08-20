@@ -34,7 +34,7 @@ Some fun project ideas to get you started:
 - Swap whatever print is on a T-shirt into the company logo  
 - Take the face of 2 people and transform them into the *Stepbrothers* movie poster
 
-Pre-loaded models:
+## ✅ Pre-loaded models
 - Stable Diffusion 1.5
 - LLama 3
 - MobileNet v2
