@@ -1,18 +1,20 @@
 # Cere AI Agent Image Challenge (Closed Beta)
-This is your chance to be among the **first external developers** to build custom AI agents on our closed beta platform.
+This is your chance to learn how to build an AI agent that can immediatly be dropped into a user data stream!
 
-The goal: **create your own agent flow (image filter) that produces consistent results on par with ChatGPT**.
+The goal: **create your a fun AI Agent image filter that will be used by thousands of users**.
 
 ## 🎯 Challenge Overview
 
 - Create & deploy a Computer Vision AI agent using Cere’s AI stack – Doing something fun, creative, and viral-ready. Be sure to design your agent in such a way that brand assets can be included (e.g. company logo or a mascot) to customize the experience.
-- First **5 developers** to complete a fully functional filter that meets quality requirements will receive **$200 each**.  
-- On top of that, any filters that **make the cut** and are used in a live partner campaign with real users! You’ll earn an **additional $100** each time a user wins by using your AI agent.
+- The first developers to succesfully launch an AI agent that meets the quality requirements will receive **$200**.  
+- On top of that, your agent will be used during our partner campaign and you’ll earn an **additional $100** each time a user wins by using your AI agent!
+
+**Can't wait to start?** Apply for access: [Noteforms Application](https://noteforms.com/forms/bullish-image-challenge-ajxsbr)  
 
 ## 🏆 Prizes
 
-1. **$200 each** for the first 5 functional filters (pending approval)
-2. **+ $100 bonus** for the winning submission (decided by partner campaign vote)
+1. **$200 Bounty** for launching your AI agent 
+2. **+ $100 bonus** for **EACH** time your filter was used in a winning submission in our partner campaign 🔥
 
 ## ℹ️ How your agent will be used
 ![AI Image Challenge USER FLOW](https://cdn.ddcdragon.com/1312/baear4ig2due6ml6mstlpyssi5mee2ulzdam4fena3yolmmvdkixfaatq4u/bullish_image_challenge_flow_v2.png)
