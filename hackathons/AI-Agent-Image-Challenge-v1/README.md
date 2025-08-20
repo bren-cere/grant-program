@@ -6,8 +6,9 @@ The goal: **create your a fun AI Agent image filter that will be used by thousan
 ## 🎯 Challenge Overview
 
 - Create & deploy a Computer Vision AI agent using Cere’s AI stack – Doing something fun, creative, and viral-ready. Be sure to design your agent in such a way that brand assets can be included (e.g. company logo or a mascot) to customize the experience.
-- The first developers to succesfully launch an AI agent that meets the quality requirements will receive **$200**.  
+- Every developer that succesfully launches an AI agent that meets the quality requirements will receive **$200**.  
 - On top of that, your agent will be used during our partner campaign and you’ll earn an **additional $100** each time a user wins by using your AI agent!
+- **Limited slots are available, so be quick to sign up!**
 
 **Can't wait to start?** Apply for access: [Noteforms Application](https://noteforms.com/forms/bullish-image-challenge-ajxsbr)  
 
