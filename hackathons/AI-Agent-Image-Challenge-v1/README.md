@@ -9,8 +9,6 @@ The goal: **create your own agent flow (image filter) that produces consistent r
 - First **5 developers** to complete a fully functional filter that meets quality requirements will receive **$200 each**.  
 - On top of that, any filters that **make the cut** and are used in a live partner campaign with real users! You’ll earn an **additional $100** each time a user wins by using your AI agent.
 
-**Ready to jump in?** Apply for access: [Noteforms Application](https://noteforms.com/forms/bullish-image-challenge-ajxsbr) 🚀 
-
 ## 🏆 Prizes
 
 1. **$200 each** for the first 5 functional filters (pending approval)
@@ -38,7 +36,9 @@ Some fun project ideas to get you started:
 - Stable Diffusion 1.5
 - LLama 3
 - MobileNet v2
-  
+
+👍🏻**You can load your own models as long as they fit our guidelines.**
+
 ---
 
 ## 🚀 Quickstart
