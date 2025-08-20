@@ -46,7 +46,7 @@ This guide will help you deploy your first agent on the Cere AI Stack.
 ### Step 1: Prerequisites
 
 1. Apply for access: [Noteforms Application](https://noteforms.com/forms/bullish-image-challenge-ajxsbr)  
-   ⏱ Please allow up to **3 days** for confirmation.  
+   ⏱ Please allow up to **48h** for confirmation.  
 2. Upon approval, you’ll receive:
    - Closed beta access to the Cere AI Stack
    - Access to a private Discord channel  
@@ -225,7 +225,7 @@ Expected response:
 ## 📅 Timeline
 
 - Applications open: Wednesday Aug 20th 16:00 UTC  
-- Submissions due:  Sunday Aug 24th 23:00 UTC  
+- Submissions due:  Wednesday Aug 27th 23:00 UTC  
 - Partner campaign kickoff: Sep 3rd 12:00 UTC
 
 ---
