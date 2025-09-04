@@ -73,9 +73,9 @@ This guide will help you deploy your first agent on the Cere AI Stack.
 1. Go to **Agent Registry**  
 2. Click **Create Agent**  
 3. Select **Programmable Agent**  
-4. Configure details - make sure you follow this naming format: "BIC - <your name> - <your agent name>"
+4. Configure details - make sure you follow this naming format: "BIC - your name - your agent name"
    ```
-     name: "BIC - Bren - Awesome Meme Generator Agent",
+     name: "BIC - Bren - Awesome Meme Generator Agent"
      description: "AI-powered filter that transforms selfies into web3 memes"
    ```
 5. Skip tools setup (not supported yet)  
