@@ -78,17 +78,21 @@ This guide will help you deploy your first agent on the Cere AI Stack.
      name: "BIC - Bren - Awesome Meme Generator Agent"
      description: "AI-powered filter that transforms selfies into web3 memes"
    ```
-5. Skip tools setup (not supported yet)  
+5. Skip tools setup 
 6. Add task
 7. Copy & paste the **Quickstart code** you copied earlier from the model registry
-8. Review & submit your agent  
+8. Review & submit your agent
+9. IMPORTANT: ask the admin (eg Bren on Discord) to deploy your agent into the datastream
 
 #### 2.3 Test Your Agent
 
-1. Go to your test Telegram channel
-2. Run the `/fun` command
-3. Reply to the bot by submitting/attaching an image
-4. Your AI agent will return a processed result to the bot which will share it in the Telegram channel
+1. Go to the Agent Registry
+2. Filter on "own models"
+3. Click on your model
+4. Click on "Playground"
+5. Run a first test
+
+**Tip:** the output of the image models is a BASE64 image. You can quickly convert it to a viewable format here: https://base64.guru/converter/decode/image.
 
 ---
 
@@ -130,9 +134,21 @@ This guide will help you deploy your first agent on the Cere AI Stack.
 
 ---
 
-### Step 4: (Optional) Deploy Your Own Model
+### Step 4: Concierge agent
+Using the concierge agent you can trigger your agent(s) based on the Telegram data stream coming in through your bot.
 
-#### 4.1 Package a Model
+1. Go to your organisation dashboard in ROB
+2. Click on "Engagements"
+3. Click & edit the "AI Image Agent challenge Engagement" that was prepared for you (if you don't see this, ask Bren on Discord ot make it)
+4. Click on the "CONCIERGE AGENT" tab
+5. Look for "// CHANGE THIS CODE TO YOUR BOT; in this example we use the faceSwapAgent" and replace the code with your agent(s)
+6. Go to your Telegram channel and type "/fun" to invoke your agent flow
+
+---
+
+### Step 5: (Optional) Deploy Your Own Model
+
+#### 5.1 Package a Model
 
 Example using HuggingFace MobileNetV2:
 
@@ -149,7 +165,7 @@ cd ..
 
 Result: you now have `mobilenet_v2_cv.zip` (~14MB) ready for upload.
 
-#### 4.2 Upload Model to DDC
+#### 5.2 Upload Model to DDC
 
 1. Go to: [Cere Developer Console](https://stage.developer.console.cere.network/)  
 2. Sign up with your e-mail  
