@@ -56,47 +56,9 @@ This guide will help you deploy your first agent on the Cere AI Stack.
 
 ---
 
-### Step 2: Set Up Your Testing Environment (Telegram Channel)
+### Step 2: Deploy Your First Agent
 
-#### 2.1 Create a New Telegram Group
-
-1. Open Telegram  
-2. Tap the menu (☰) → **New Group**  
-3. Enter channel name (e.g., `Cere Image Challenge`)  
-4. Click **Create**  
-
-#### 2.2 Configure Group Settings
-
-1. Tap the menu (☰) → **Manage group**  
-2. Add a profile picture  
-3. Click on **Group type** → change to **Public**  
-4. Set your group name (e.g., `cereimagechallenge`)  
-
-#### 2.3 Invite the Bot to Your Channel
-
-1. Tap the menu (☰) → **Manage group**  
-2. Click **Members → Add member** → add our bot (`STG Cere Media Bot` for staging, `Cere Media Bot` for production)  
-3. Tap the menu (☰) → **Manage group**  
-4. Click **Administrators → Add administrator** → add the bot again  
-5. Remove all rights  
-
-#### 2.4 Whitelist your channel
-
-1. DM Bren on Telegram ([@nerbke](https://t.me/nerbke)) and ask him to whitelist your channel for the bot
-2. Share the link to your channel with Bren
-3. Wait for Bren to confirm your channel is whitelisted
-
-#### 2.5 Verify Bot Access
-
-1. Send `/help` command in the channel  
-2. Bot should respond with instructions  
-3. If bot doesn’t respond, check administrator permissions  
-
----
-
-### Step 3: Deploy Your First Agent
-
-#### 3.1 Choose Your Model
+#### 2.1 Choose Your Model
 
 1. Navigate to [ROB Platform](https://rob.stage.cere.io/) 
 2. Login via email  (use the e-mail you signed up with)
@@ -106,27 +68,65 @@ This guide will help you deploy your first agent on the Cere AI Stack.
 6. Copy the code & save it somewhere (e.g. in a text file)
 7. Close **Model Registry**  
 
-#### 3.2 Create Your Agent
+#### 2.2 Create Your Agent
 
 1. Go to **Agent Registry**  
 2. Click **Create Agent**  
 3. Select **Programmable Agent**  
-4. Configure details (example):
+4. Configure details - make sure you follow this naming format: "BIC - <your name> - <your agent name>"
    ```
-     name: "Smart Photo Filter",
-     description: "AI-powered filter that transforms selfies into mascot PFPs"
+     name: "BIC - Bren - Awesome Meme Generator Agent",
+     description: "AI-powered filter that transforms selfies into web3 memes"
    ```
 5. Skip tools setup (not supported yet)  
 6. Add task
 7. Copy & paste the **Quickstart code** you copied earlier from the model registry
 8. Review & submit your agent  
 
-#### 3.3 Test Your Agent
+#### 2.3 Test Your Agent
 
 1. Go to your test Telegram channel
 2. Run the `/fun` command
 3. Reply to the bot by submitting/attaching an image
 4. Your AI agent will return a processed result to the bot which will share it in the Telegram channel
+
+---
+
+### Step 3: Set Up Your Testing Environment (Telegram Channel)
+
+#### 3.1 Create a New Telegram Group
+
+1. Open Telegram  
+2. Tap the menu (☰) → **New Group**  
+3. Enter channel name (e.g., `Cere Image Challenge`)  
+4. Click **Create**  
+
+#### 3.2 Configure Group Settings
+
+1. Tap the menu (☰) → **Manage group**  
+2. Add a profile picture  
+3. Click on **Group type** → change to **Public**  
+4. Set your group name (e.g., `cereimagechallenge`)  
+
+#### 3.3 Invite the Bot to Your Channel
+
+1. Tap the menu (☰) → **Manage group**  
+2. Click **Members → Add member** → add our bot (`STG Cere Media Bot` for staging, `Cere Media Bot` for production)  
+3. Tap the menu (☰) → **Manage group**  
+4. Click **Administrators → Add administrator** → add the bot again  
+5. Remove all rights  
+
+#### 3.4 Whitelist your channel
+
+1. DM Bren on Telegram ([@nerbke](https://t.me/nerbke)) and ask him to whitelist your channel for the bot
+2. Share the link to your channel with Bren
+3. Wait for Bren to confirm your channel is whitelisted
+
+#### 3.5 Verify Bot Access
+
+1. Send `/help` command in the channel  
+2. Bot should respond with instructions  
+3. If bot doesn’t respond, check administrator permissions  
 
 ---
 
