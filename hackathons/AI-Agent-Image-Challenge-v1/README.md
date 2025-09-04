@@ -6,7 +6,7 @@ The goal: **create your own agent flow (image filter) that produces consistent r
 ## 🎯 Challenge Overview
 
 - Create & deploy a Computer Vision AI agent using Cere’s AI stack – Doing something fun, creative, and viral-ready. Be sure to design your agent in such a way that brand assets can be included (e.g. company logo or a mascot) to customize the experience.
-- Each developer to deploy a creative AI Agent that can be used in our partner campaign will receive **$200 each**.  
+- Each developer to deploy a fun AI Agent that can be used in our partner campaign will receive **$200 each**.  
 - On top of that, if your AI Agent is used in the live partner campaign you can win a bonus! You’ll earn an **additional $100** each time a user wins by using your AI agent.
 
 ## 🏆 Prizes
@@ -31,6 +31,7 @@ Some fun project ideas to get you started:
 - Change the background into the company logo  
 - Swap whatever print is on a T-shirt into the company logo  
 - Take the face of 2 people and transform them into the *Stepbrothers* movie poster
+
 
 ## ✅ Pre-loaded models
 - Stable Diffusion 1.5
